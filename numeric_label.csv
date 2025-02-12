@@ -1,0 +1,43 @@
+id,query,label
+1,1. Can I get a list of all flights from Chicago to Atlanta today?,0
+2,2. What's the latest update on flight schedules for United Airlines?,1
+3,3. Are there any direct flights from New York to Los Angeles on Saturday?,2
+4,4. Show me the flight options from Boston to San Francisco with one stop.,0
+5,5. How many flights are available from Denver to Las Vegas tomorrow?,0
+6,6. What's the cost of a business class ticket from Paris to Tokyo?,3
+7,7. Can I get the cheapest fare for flights from Miami to New York on short notice?,3
+8,8. How much does it cost to upgrade to first class on a flight from London to New York?,3
+9,9. Are there any discounts available for students or seniors on domestic flights?,4
+10,10. What's the price difference between a morning and afternoon flight from Chicago to Los Angeles?,0
+11,11. Which airline has the best in-flight entertainment system?,4
+12,12. Can I get a refund if my flight is cancelled due to mechanical issues?,4
+13,13. How do I contact American Airlines customer service for assistance?,5
+14,14. Are there any special perks or rewards programs for loyalty members on Delta Air Lines?,4
+15,15. What's the baggage policy for Lufthansa flights?,6
+16,16. When does the next flight from JFK to LAX depart and arrive?,2
+17,17. Is my flight delayed due to bad weather in Chicago?,7
+18,18. Can I track the status of my flight using your app?,4
+19,19. Are there any cancellations or delays on flights from Atlanta to New York today?,2
+20,20. What's the estimated arrival time for a flight that departed an hour ago?,2
+21,21. Does Korean Air offer vegan meal options on long-haul flights?,8
+22,22. Can I request a special meal for my infant on a flight from Los Angeles to Sydney?,8
+23,23. Are there any free snacks or meals available on budget airline flights?,4
+24,24. How do I order a meal upgrade on a flight from London to New York?,8
+25,25. What's the selection of vegetarian options on in-flight menus?,8
+26,26. Are there any seats left on the next flight from Denver to Orlando?,9
+27,27. Can I book a seat with extra legroom for my family?,5
+28,28. How many seats are available in economy class on flights from Chicago to Atlanta?,0
+29,29. Is it possible to book a same-day return ticket online?,4
+30,30. What's the policy on refunds for unused tickets?,4
+31,31. Can I use multiple credit cards to pay for a single ticket?,5
+32,32. How do I contact customer service for assistance with booking?,5
+33,33. What's the fare for a taxi from JFK Airport to Midtown Manhattan?,4
+34,34. Can I book a shared shuttle service from LAX to Los Angeles?,4
+35,35. How much does it cost to rent a car at the airport?,4
+36,36. Are there any discounts available for travel between airports in one day?,4
+37,37. What's the price of a bus ticket from Chicago O'Hare to downtown Chicago?,4
+38,38. Is there free Wi-Fi available throughout the airport?,4
+39,39. Can I get a wheelchair or scooter rental at the airport?,4
+40,40. Where is the nearest ATM or currency exchange machine in the terminal?,4
+41,41. Are there any restaurants or cafes open 24 hours a day in the airport?,4
+42,42. How do I access the airport lounge for an extra fee?,4
